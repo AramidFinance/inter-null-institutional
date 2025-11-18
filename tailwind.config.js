@@ -43,6 +43,7 @@ module.exports = {
 
         // Semantic Colors
         success: {
+          DEFAULT: '#10B981',
           50: '#F0FDF4',
           100: '#DCFCE7',
           600: '#16A34A',
@@ -50,6 +51,7 @@ module.exports = {
           800: '#166534',
         },
         warning: {
+          DEFAULT: '#F59E0B',
           50: '#FFFBEB',
           100: '#FEF3C7',
           600: '#D97706',
@@ -57,6 +59,7 @@ module.exports = {
           800: '#92400E',
         },
         error: {
+          DEFAULT: '#EF4444',
           50: '#FEF2F2',
           100: '#FEE2E2',
           600: '#DC2626',
@@ -64,6 +67,7 @@ module.exports = {
           800: '#991B1B',
         },
         info: {
+          DEFAULT: '#3B82F6',
           50: '#EFF6FF',
           100: '#DBEAFE',
           600: '#2563EB',
