@@ -1,5 +1,6 @@
 name = "internull-institutional"
 compatibility_date = "2024-01-01"
+main = "worker.js"
 
-# Pages configuration for static site deployment
-pages_build_output_dir = "out"
+[site]
+bucket = "./out"

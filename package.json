@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@cloudflare/kv-asset-handler": "^0.3.4",
     "framer-motion": "^11.0.0",
     "lucide-react": "^0.554.0",
     "next": "^14.2.33",
