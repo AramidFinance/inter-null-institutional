@@ -116,7 +116,7 @@ export default function Home() {
                   <div className="flex items-center justify-center gap-2 text-2xl md:text-3xl font-bold text-white mb-1 group-hover:text-primary-glow transition-colors">
                     $195M <TrendingUp className="w-6 h-6 text-success" />
                   </div>
-                  <div className="text-xs text-slate-500 uppercase tracking-wider font-mono">Privacy Infra Raised (Nov '25)</div>
+                  <div className="text-xs text-slate-500 uppercase tracking-wider font-mono">Privacy Infra Raised (Nov &apos;25)</div>
                </div>
                <div className="text-center group cursor-default">
                   <div className="text-2xl md:text-3xl font-bold text-white mb-1 group-hover:text-primary-glow transition-colors">
@@ -271,7 +271,7 @@ export default function Home() {
                        </div>
                        <h3 className="text-3xl font-bold text-white mb-4">Protect Treasury Movements</h3>
                        <p className="text-slate-400 mb-8 leading-relaxed text-lg">
-                         Enter and exit large positions without triggering copy-traders. Perform quarterly rebalancing and OTC settlements while shielding your LPs' strategies.
+                         Enter and exit large positions without triggering copy-traders. Perform quarterly rebalancing and OTC settlements while shielding your LPs&apos; strategies.
                        </p>
                        <div className="flex items-center gap-4 p-4 rounded-lg bg-slate-900/60 border border-slate-800 mb-8">
                             <div className="text-white font-bold text-xl">$500K-1.5M</div>
